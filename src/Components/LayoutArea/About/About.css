@@ -1,0 +1,20 @@
+.About{
+   display:inline-block;
+   text-align: center;
+   width:60%;
+   padding: 20px;
+   margin: 100px;
+   word-spacing: 2px;
+   background-color: salmon;
+   border: 2px solid black;
+   border-radius:12px;
+}
+
+#errors1{
+    color:red;
+    font-weight:bold
+}
+
+#aaa{
+    color:gold;
+}
